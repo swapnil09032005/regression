@@ -1,29 +1,50 @@
-# Simple Linear Regression - ML Project
+# 📊 My ML Regression Journey
 
-Hi, I’m Swapnil Madhukar Panchal, a Computer Engineering student at MGM’s College of Engineering, Nanded.
-
-## 📌 Project: Simple Linear Regression
-
-This is my first machine learning project. It demonstrates how a simple linear regression model can be built using Python to predict values based on a linear relationship.
-
-### 🔧 Tools Used:
-- Python
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Scikit-learn
-
-### 📚 What I Learned:
-- Loading and preparing datasets
-- Visualizing data using matplotlib
-- Applying scikit-learn’s `LinearRegression` model
-- Evaluating model performance using Mean Squared Error
-
-### 🚀 Future Plans:
-This is just the beginning! Next up, I’ll be learning multiple regression, classification, and working on real-world ML projects.
+Welcome to my Machine Learning Regression learning series! 🚀  
+This repo contains my hands-on implementation of various regression algorithms using Python and scikit-learn.
 
 ---
-> **Author**: Swapnil Madhukar Panchal  
-> **College**: MGM's College of Engineering, Nanded  
-> **Connect**: [LinkedIn](https://www.linkedin.com) (Replace with your real profile)
 
+## 🔧 Tools & Libraries Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 📁 Included Models
+
+| Model                         | Notebook File                         | Dataset Used            |
+|------------------------------|----------------------------------------|--------------------------|
+| Simple Linear Regression      | `simple_linear_regression.ipynb`       | `Salary_Data.csv`        |
+| Multiple Linear Regression    | `MultipleLinearRegression.ipynb`       | `50_Startups.csv`        |
+| Polynomial Regression         | `PolynomialLinearRegression.ipynb`     | `Position_Salaries.csv`  |
+| Support Vector Regression     | `SVR.ipynb`                             | `Position_Salaries.csv`  |
+| Decision Tree Regression      | `DecisionTreeRegression.ipynb`         | `Position_Salaries.csv`  |
+| Random Forest Regression      | `RandomForestRegression.ipynb`         | `Position_Salaries.csv`  |
+
+
+
+## 🚀 How to Use
+
+1. Clone this repo
+2. Open any `.ipynb` file with Jupyter or Google Colab
+3. Run all cells to visualize the model performance
+4. Replace datasets with your own for practice
+
+---
+
+## 📌 What's Next?
+Stay tuned for my journey into **Classification Algorithms**! 🔍
+
+---
+
+## 🙌 Let's Connect
+If you're also learning ML or have feedback, feel free to connect on [LinkedIn](https://www.linkedin.com/in/swapnil-panchal-1b8a54258) or raise an issue/discussion here!
+
+---
+
+#machinelearning #regression #datascience #python #mlprojects
